@@ -1,5 +1,5 @@
 # Author: Tega Omarejedje
-# Assignment: Eligible Elector
+# Assignment: Number Guessing Game
 # Date: 05/25/2025
 
 # Step 1: Generate a Random Number
