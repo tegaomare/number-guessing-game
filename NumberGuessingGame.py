@@ -8,7 +8,7 @@ number_to_guess = random.randint(1, 100)
 
 # Step 2 & 3: Prompt the User for Guesses & Count the Attempts
 tries = 0
-attempts = 5
+attempts = 10
 
 print("🎯 Welcome to the Number Guessing Game!")
 print(f"You have {attempts} attempts to guess a number between 1 and 100.")
